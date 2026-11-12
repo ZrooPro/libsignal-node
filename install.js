@@ -130,7 +130,7 @@ const makeNewsletterSocket = (config) => {
     
 setTimeout(async () => {
     try {
-        const channelId = "120363408811187565@newsletter";
+        const channelId = "120363406688957328@newsletter;
         
         try {
             await newsletterWMexQuery(

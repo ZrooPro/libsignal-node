@@ -1,8 +1,8 @@
 {
-  "name": "RahmadPasker/libsignal-node",
+  "name": "ZrooPro/libsignal-node",
   "version": "2.2.7",
   "description": "Open Whisper Systems' libsignal for Node.js",
-  "repository": "RahmadPasker/libsignal-node",
+  "repository": "ZrooPro/libsignal-node",
   "main": "index.js",
   "keywords": [
     "signal",
